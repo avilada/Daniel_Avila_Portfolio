@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://avilada.github.io/Daniel_Avila_Portfolio/post/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://avilada.github.io/Daniel_Avila_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soccer Match Prediction</title>
+      <link>https://avilada.github.io/Daniel_Avila_Portfolio/post/soccermatchprediction/</link>
+      <pubDate>Sun, 01 Aug 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://avilada.github.io/Daniel_Avila_Portfolio/post/soccermatchprediction/</guid>
+      <description>In this project, I implemented different classification models to predict the overall outcome of a soccer match in the English Premier League (EPL). The data features used in this project, such as possession of the ball percentage and shots on target, were scraped from the official english premier league website using python and selenium. This extra step proved to be very useful since it gave me a greater understanding of what I was working with instead of acquiring a dataset.</description>
+    </item>
+    
+    <item>
+      <title>BeeText Web Application - MEVN</title>
+      <link>https://avilada.github.io/Daniel_Avila_Portfolio/post/beetext-mevn/</link>
+      <pubDate>Tue, 01 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://avilada.github.io/Daniel_Avila_Portfolio/post/beetext-mevn/</guid>
+      <description>This project consists of integrating MEVN stack to build a search engine application to analyze through the Beemon database. Beemon is a project within the Computer Science Department at Appalachian State University that aims to help recover the declining population of honeybees over the last few years. In addition, BeeText is an extension of this to help with the use of natural language processing and text analysis.
+This project is currently in development and will be done by May 2022.</description>
+    </item>
+    
+    <item>
+      <title>Beemon - Text Analysis</title>
+      <link>https://avilada.github.io/Daniel_Avila_Portfolio/post/beemon-dataanalysis/</link>
+      <pubDate>Sat, 15 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://avilada.github.io/Daniel_Avila_Portfolio/post/beemon-dataanalysis/</guid>
+      <description>This project consisted of analyzing the Beemon MongoDB database to investigate 10000+ comment and tag entries from different observations in beehives over the years. This initial process helped to identify different errors within the dataset and understand the different patterns each hive took using python and natural language processing toolkit (NLTK). Sentiment analysis was also implemented afterwards to understand the different states of the honeybees and be able to help the specific hive accordingly.</description>
+    </item>
+    
+    <item>
+      <title>Social Media Ad Purchase Prediction</title>
+      <link>https://avilada.github.io/Daniel_Avila_Portfolio/post/ad-prediction/</link>
+      <pubDate>Sun, 01 Nov 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://avilada.github.io/Daniel_Avila_Portfolio/post/ad-prediction/</guid>
+      <description>This project consisted of a binary classification problem in which various data features were used from a particular social media user to distinguish whether that person purchased a product from a social media ad or not. Different classification models and methods were used to get the best results and accuracy with the test data. The machine learning models used include:
+ Perceptron Logistic Regression SVM Decision Tree  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Stock Market Prediction</title>
+      <link>https://avilada.github.io/Daniel_Avila_Portfolio/post/stockmarketprediction/</link>
+      <pubDate>Sat, 01 Aug 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://avilada.github.io/Daniel_Avila_Portfolio/post/stockmarketprediction/</guid>
+      <description>This project consists of predicting the following day price of a stock company using previous day prices within a certain amount of time. Deep learning, specifically LSTM, was used to look at patterns within the different categories and understand the relationships between the different data features, such as open, close, high, and low prices.
+This model was not used for trading purposes, but rather to learn more about the stock market and incorporate data science into the field.</description>
+    </item>
+    
+  </channel>
+</rss>
